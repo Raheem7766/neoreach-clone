@@ -1916,5 +1916,24 @@
     .images-div{
         height: 100px;
     }
+    .Leading-div{
+        margin-top: 20px;
+    }
+    .five-logo{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .image-div6{
+        height: 100%;
+        width: 15%;
+    }
+    .image-div6 img{
+        height: 100%;
+        width: 100%;
+    }
+    .Run-div{
+        margin-top: -100px;
+    }
     
 }
